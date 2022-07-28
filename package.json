@@ -1,0 +1,26 @@
+{
+  "name": "applicationsuivifinance",
+  "version": "1.0.0",
+  "description": "Application pour suivre ses finances. Technologie React et Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumePons63/applicationSuiviFinance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumePons63/applicationSuiviFinance/issues"
+  },
+  "homepage": "https://github.com/GuillaumePons63/applicationSuiviFinance#readme",
+  "devDependencies": {
+    "electron": "^19.0.10"
+  },
+  "dependencies": {
+    "got": "^12.2.0"
+  }
+}
